@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=6e6d6d)
 
 
-|![](https://github-readme-stats.vercel.app/api?username=string-dot-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515&border_color=6e6d6d)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=string-dot-byte&layout=compact&langs_count=10&bg_color=151515&title_color=ffffff&text_color=ffffff&border_color=6e6d6d)|
+(https://github-readme-stats.vercel.app/api/top-langs/?username=string-dot-byte&layout=compact&langs_count=10&bg_color=151515&title_color=ffffff&text_color=ffffff&border_color=6e6d6d)|
 |-|-|
 </p>
 
