@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=6e6d6d)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=string-dot-byte&layout=compact&theme=dark&hide=css,php&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=151515&border_color=000000&icon_color=ffffff)](https://github.com/string-dot-byte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=string-dot-byte&layout=compact&theme=dark&hide=batchfile,php&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=151515&border_color=000000&icon_color=ffffff)](https://github.com/string-dot-byte/github-readme-stats)
 </p>
 
 <p align="center">
