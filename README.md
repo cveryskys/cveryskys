@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img style="text-align:center;" src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=6e6d6d">
+  <img style="text-align:center;" src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=00000">
 </p
