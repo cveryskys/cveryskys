@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=6e6d6d)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys)](https://github.com/anuraghazra/github-readme-stats)|-|-|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=batchfile,html)](https://github.com/cveryskys/github-readme-stats)
 </p>
 
 <p align="center">
