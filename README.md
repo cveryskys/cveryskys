@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=string-dot-byte&layout=compact&theme=dark&hide=batchfile,php&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=000000&icon_color=ffffff&custom_title=most%20used%20langs)](https://github.com/string-dot-byte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark&hide=batchfile,php&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=000000&icon_color=ffffff&custom_title=most%20used%20langs)](https://github.com/cveryskys/github-readme-stats)
 </p>
 
 <p align="center">
