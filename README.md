@@ -8,17 +8,12 @@
   <span style="color: #000000;">100% fluent in</span> <span style="font-style: italic; color: #000000;">Lua<u>*</u></span> <span style="color: #000000;">and Python</span>
 </p>
 
-<!-- Profile Views Section -->
-<p align="center" style="font-size: 28px; font-weight: bold; text-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-  <span style="color: #800000;">Check out my profile views!</span>
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=ffffff&label=Profile%20Views&labelColor=bbbbbb&color=000000" alt="Profile Views" style="border: 3px solid #cccccc; border-radius: 12px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);">
 </p>
 
-<!-- Top Languages Section -->
 <p align="center" style="font-size: 28px; font-weight: bold; text-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-  <span style="color: #800000;">Top Programming Languages</span>
+  <span style="color: #800000;">my top languages</span>
 </p>
 <p align="center">
   <a href="https://github.com/cveryskys/github-readme-stats">
