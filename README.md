@@ -18,5 +18,6 @@
 
 
 <p align="center">
-  <img style="text-align:center;" src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=ff0000">
-</p
+  <img src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=ff0000" alt="Profile Views" style="border: 3px solid red; border-radius: 8px;">
+</p>
+
