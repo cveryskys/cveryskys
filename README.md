@@ -9,8 +9,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark,php&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=000000&icon_color=ffffff&custom_title=most%20used%20langs)](https://github.com/cveryskys/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/cveryskys/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000&icon_color=ffffff&custom_title=Most%20Used%20Languages" alt="Most Used Languages" style="border: 3px solid red; border-radius: 8px;">
+  </a>
 </p>
+
 
 <p align="center">
   <img style="text-align:center;" src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=000000">
