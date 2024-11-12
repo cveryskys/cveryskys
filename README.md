@@ -11,9 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/cveryskys/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000&icon_color=ffffff&custom_title=Most%20Used%20Languages" alt="Most Used Languages" style="border: 3px solid red; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000&icon_color=ffffff&custom_title=Top%20Langs" alt="Top Langs" style="border: 3px solid red; border-radius: 8px;">
   </a>
 </p>
+
 
 
 <p align="center">
