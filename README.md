@@ -13,14 +13,7 @@
 </p>
 
 <!-- Top Languages Section -->
-<p align="center" style="font-size: 32px; font-weight: bold; text-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);">
-  <span style="color: #8A2BE2; text-transform: uppercase; font-size: 36px; font-weight: 600;">Top Programming Languages</span>
-</p>
-<p align="center">
-  <a href="https://github.com/cveryskys/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=gray&langs_count=6&title_color=000000&text_color=808080&bg_color=ffffff&border_color=cccccc&icon_color=000000&custom_title=top%20langs" alt="Top Langs" style="border: 4px solid #cccccc; border-radius: 15px; box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out; transform: scale(1);">
-  </a>
-</p>
+
 
 <!-- Tech Stack Section (Shields) -->
 <p align="center" style="font-size: 32px; font-weight: bold; text-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);">
