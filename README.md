@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visualstudio&color=000000)
 
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=000000)
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=Apple&logoColor=e3e3e3&color=000000)
 
 
 
