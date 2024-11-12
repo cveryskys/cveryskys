@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=string-dot-byte&style=flat-square&color=ff0000" alt="Profile Views" style="border: 3px solid red; border-radius: 8px;">
-</p>
-
-<p align="center">
   <a href="https://github.com/cveryskys/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cveryskys&layout=compact&theme=dark&langs_count=6&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000&icon_color=ffffff&custom_title=Top%20Langs" alt="Top Langs" style="border: 3px solid red; border-radius: 8px;">
   </a>
