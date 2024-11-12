@@ -25,14 +25,6 @@
   </a>
 </p>
 
-<style>
-  /* Hover effect to increase size and change shadow */
-  p img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.5);
-  }
-</style>
-
 
 <!-- Tech Stack Section (Shields) -->
 <p align="center" style="font-size: 32px; font-weight: bold; text-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);">
