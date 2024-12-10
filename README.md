@@ -45,3 +45,6 @@
   <img src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=000000&color=eeeeee&labelColor=cccccc" alt="Windows" style="margin: 10px; border-radius: 12px; box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out; transform: scale(1.05);">
   <img src="https://img.shields.io/badge/macOS-informational?style=flat&logo=Apple&logoColor=000000&color=eeeeee&labelColor=cccccc" alt="macOS" style="margin: 10px; border-radius: 12px; box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out; transform: scale(1.05);">
 </p>
+
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
